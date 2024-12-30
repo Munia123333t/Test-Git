@@ -1,0 +1,14 @@
+.navigation{
+    display: flex;
+    justify-content: space-around;
+}
+
+.ones-nav{
+    /* display: flex; */
+    justify-content: space-between;
+    margin: 10px;
+    
+}
+.ones-nav a{
+    text-decoration: none;
+}
